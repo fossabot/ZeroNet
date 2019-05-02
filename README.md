@@ -1,4 +1,5 @@
 # ZeroNet [![Build Status](https://travis-ci.org/HelloZeroNet/ZeroNet.svg?branch=master)](https://travis-ci.org/HelloZeroNet/ZeroNet) [![Documentation](https://img.shields.io/badge/docs-faq-brightgreen.svg)](https://zeronet.io/docs/faq/) [![Help](https://img.shields.io/badge/keep_this_project_alive-donate-yellow.svg)](https://zeronet.io/docs/help_zeronet/donate/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoey-cliqr%2FZeroNet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoey-cliqr%2FZeroNet?ref=badge_shield)
 
 [简体中文](./README-zh-cn.md)
 [Русский](./README-ru.md)
@@ -219,3 +220,7 @@ Site:13DNDk..bhC2 Successfuly published to 3 peers
 * More info, help, changelog, zeronet sites: https://www.reddit.com/r/zeronet/
 * Come, chat with us: [#zeronet @ FreeNode](https://kiwiirc.com/client/irc.freenode.net/zeronet) or on [gitter](https://gitter.im/HelloZeroNet/ZeroNet)
 * Email: hello@zeronet.io (PGP: CB9613AE)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoey-cliqr%2FZeroNet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoey-cliqr%2FZeroNet?ref=badge_large)
